@@ -17,5 +17,3 @@ Get-PSDrive
 
 #to see which modules are loaded
 Get-Module
-
-Get-Module -ListAvailable
